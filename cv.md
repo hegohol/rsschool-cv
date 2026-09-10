@@ -1,12 +1,13 @@
 ## [rsschool-cv](https://github.com/hegohol/rsschool-cv)
 # Ulyana YouDontHaveToKnow
 ![photo](very-real-face.png)
-************************
+
+****************
 
 ## Contact information:
 **Phone**: +111 (11) 111-11-11  
 **E-mail**: hegohol@gmail.com  
-**GitHub**: [hegohol](https://github.com/hegohol)
+**GitHub**: [hegohol](https://github.com/hegohol)  
 **Discord**: @hegohol
 
 ## About myself:
