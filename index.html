@@ -7,11 +7,13 @@
     <title>My cv</title>
 </head>
 <body>
+    <div class="flex-container">
+    <main>
+    <div class="main-center">
     <header>
         <h1>Ulyana YouDontHaveToKnow</h1>
         <h2>Full-stack developer</h2>
     </header>
-    <main>
         <h2>Skills and Proficiency</h2>
         <ul>
             <li>JavaScript (basic)</li>
@@ -34,13 +36,14 @@ function multiply(a, b){
     return a * b;
 }
         </code></pre>
-    </main>
-    <aside>
-        <header>
+    </div>
+        <div class="main-side">
+        <header class="photo-card">
             <img src="very-real-face.png" alt="avatar">
             <h2>About myself:</h2>
             <hr>
             <p>Was introduced to coding as a kid but stopped because of the lack of time and loss of motivation. Now I'm trying to get back to it to finally understand how all this stuff actually works and web development just seemed like a good way to start.</p>
+        </header>
             <h2>Contact information</h2>
             <ul>
                 <li>Phone: +111 (11) 111-11-11</li>
@@ -53,10 +56,11 @@ function multiply(a, b){
                 <li>English - C2 Proficiency (according to <a target="_blank" href="https://www.efset.org/">efset.org</a> reading and listening test)</li>
                 <li>Russian - Native</li>
             </ul>
-        </header>
-    </aside>
+        </div>
+    </main>
     <footer>
         <a target="_blank" href="https://github.com/hegohol">hegohol</a>
     </footer>
+    </div>
 </body>
 </html>
